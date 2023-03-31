@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/converterVideoFragment">
+
+    <fragment
+        android:id="@+id/converterVideoFragment"
+        android:name="com.example.simpleconvertermp3.ui.ConverterVideoFragment"
+        android:label="fragment_converter_video"
+        tools:layout="@layout/fragment_converter_video" />
+</navigation>

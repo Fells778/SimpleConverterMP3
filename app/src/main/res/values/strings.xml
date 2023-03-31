@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SimpleConverterMP3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Strings from Fragment Converter -->
+    <string name="text_convert_your_video">Converta seu vídeo para MP3</string>
+    <string name="hint_url">URL do vídeo</string>
+    <string name="text_marquee_convert">Para converter basta colar a URL do vídeo e clicar em converter</string>
+    <string name="button_convert">Converter para MP3</string>
+    <string name="button_download">Baixar</string>
+
+
+    <!-- Strings from Helpers -->
+    <string name="empty_field_url">Preencha o campo com uma URL</string>
+    <string name="is_valid_url">URL invalida</string>
+
 </resources>
